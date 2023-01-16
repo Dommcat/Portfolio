@@ -1,3 +1,3 @@
-# Modify this portfolio
+# Dominick Martin portfolio
 
-Make it your own! 
+https://dominickmartin.netlify.app/

@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "name": "Dominick Martin",
-      "titles": [ "Software Developer" ],
+      "titles": [ "Strategic Data Scientist" ],
       "social": [
         {
           "name": "github",
@@ -14,7 +14,7 @@
           "class": "fab fa-linkedIn"
         }
       ],
-      "image": "myProfile.jpg"
+            "image": "myProfile.jpg"
     },
     "skills": {
       "icons": [
