@@ -1,20 +1,20 @@
 {
     "basic_info": {
       "name": "Dominick Martin",
-      "titles": [ "Strategic Fullstack Software Developer" ],
+      "titles": [ "Fullstack Software Developer" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com/",
+          "url": "https://github.com/Dommcat",
           "class": "fab fa-github"
         },
         {
           "name": "LinkedIn",
           "url": "https://www.linkedin.com/in/dominickmartin/",
-          "class": "fab fa-Linkedin"
+          "class": "fab fa-linkedin"
         }
       ],
-            "image": "myProfile.jpg"
+            "image": "MuhFace.jpg"
     },
     "skills": {
       "icons": [
