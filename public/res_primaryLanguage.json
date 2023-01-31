@@ -57,7 +57,7 @@
       {
         "title": "Computational Love",
         "startDate": "2023",
-        "description": "One of the first apps until AI took my job",
+        "description": "One of the first apps I built until AI took my job",
         "images": [
           "images/portfolio/photography/Heartbinary.jpg",
           "images/portfolio/adventure/p2.jpg"
@@ -66,7 +66,7 @@
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "name": "JavaScript"
           },
           {
             "class": "devicon-typescript-plain",
@@ -74,45 +74,30 @@
           },
           {
             "class": "devicon-csharp-plain",
-            "name": "C#"
+            "name": "Python"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
+        "company": "Hired CoOp",
+        "title": "Fullstack Software Developer",
         "years": "09.2022 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "Python",
+          "Javascript",
+          "React",
+          "HTML5",
+          "MongoDB",
+          "CSS",
+          "Pytorch"
+
         ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
-        ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+        "technologies": [ 
+      
         ]
       }
+
     ]
   }
